@@ -1,0 +1,1 @@
+This file contains some random texts which i need while praticing git tasks.
