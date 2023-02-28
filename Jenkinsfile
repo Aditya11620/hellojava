@@ -1,4 +1,4 @@
-class jekinsfile {
+class Jekinsfile {
 
   public static void main(String[] args) {
     
